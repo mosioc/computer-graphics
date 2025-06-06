@@ -12,7 +12,6 @@ This repository contains my solutions to the Computer Graphics Course (Class 202
   - [6. Drawing Implementations](#6-drawing-implementations)
   - [7. Mouse Drawing](#7-mouse-drawing)
   - [Bonus Project: Paint Design](#bonus-project-paint-design)
-    - *Note: Paint functionality will be implemented in future commits*
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installing FreeGLUT and Configuring Visual Studio](#installing-freeglut-and-configuring-visual-studio)
@@ -20,7 +19,6 @@ This repository contains my solutions to the Computer Graphics Course (Class 202
 - [Controls](#controls)
 - [Code Structure](#code-structure)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Projects Overview
 
